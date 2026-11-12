@@ -6,5 +6,5 @@
 // Pasang ini di gas URL : https://script.google.com/macros/s/AKfycbxaZWDcaMYax8Xkdh1erVbfjY-KrfIm-XR01tIfBMarIR_c65zjJRu4t_gLr4q_imDg/exec
 // =====================================================================
 window.APP_CONFIG = {
-  GAS_URL: ''
+  GAS_URL: 'https://script.google.com/macros/s/AKfycbxaZWDcaMYax8Xkdh1erVbfjY-KrfIm-XR01tIfBMarIR_c65zjJRu4t_gLr4q_imDg/exec'
 };
