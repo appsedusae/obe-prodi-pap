@@ -5,5 +5,5 @@
 //  Tidak ada rahasia di file ini (aman di-commit ke GitHub).
 // =====================================================================
 window.APP_CONFIG = {
-  GAS_URL: ''
+  GAS_URL: 'https://script.google.com/macros/s/AKfycbxaZWDcaMYax8Xkdh1erVbfjY-KrfIm-XR01tIfBMarIR_c65zjJRu4t_gLr4q_imDg/exec'
 };
